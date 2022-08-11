@@ -2,13 +2,7 @@
 
 ## Demonstration
 
-- Desktop
-
-<img src="assets/demo-desktop.png">
-
-- Mobile
-
-<img src="assets/demo-mobile.png">
+<img src="assets/demo.png">
 
 ## Tools
 
